@@ -10,22 +10,16 @@
 
   <br/>
 
-  <img src="https://github.com/pratikchamlagain/pratikchamlagain/raw/main/LinkedIn_Profile_Link_A_young_boy_with_brown_hair_wearing_a_blue_wjieYepR.gif" width="450" style="border-radius: 10px;"/>
+  <img src="https://github.com/pratikchamlagain/pratikchamlagain/raw/main/LinkedIn_Profile_Link_A_young_boy_with_brown_hair_wearing_a_blue_wjieYepR.gif" width="550" style="border-radius: 10px;"/>
 
-  <br/><br/>
+ <br/><br/>
 
-  <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
+ <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pratikchamlagain" target="_blank">
+ </a>
+ <a href="https://github.com/pratikchamlagain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:pratikchamlagain06@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/pratikchamlagain" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+ </a>
 
 </div>
 
@@ -33,49 +27,29 @@
 
 ---
 
-### 🧪 Currently Building: Project Alex (v0.1)
-*A personal AI assistant inspired by J.A.R.V.I.S.*
-- **Status:** Active Development (Apr 2026 – Present)
-- **Tech:** Python, PostgreSQL, Advanced AI APIs
-- **Goal:** Automating routine tasks and daily workflows through intelligent, voice-controlled problem-solving.
-
----
-
-### 🚀 Featured Projects (Completed)
-
-- **Fixly:** Full-stack hiring platform for local technicians featuring role-based authentication and service management. (React.js, Node.js)
-- **E-Commerce Watch Store:** Modern retail interface featuring product catalogs and a functional shopping cart. (React.js, Node.js)
-- **Billing & Inventory System:** Python-based CLI tool for retail management, automated VAT calculation, and stock persistence.
-- **Gym Management System:** Java-based member tracking and data management system for fitness centers.
-- **Profile Management System:** Java & MySQL console app using JDBC for account record creation and DAO-style retrieval.
-
----
-
 ### 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> <img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+**Frontend** <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-<br><br>
+<br/>
 
-**Backend**
-<br>
-<img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+**Backend** <img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
 
-<br><br>
+<br/>
 
-**Database & ORM**
-<br>
-<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+**Database & ORM** <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-<br><br>
+<br/>
 
-**Languages & Tools**
-<br>
-<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
+**Languages & Tools** <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -118,6 +92,15 @@
 | 🌍 Open Source Contributions      | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn**: [Pratik Chamlagain](https://linkedin.com/in/pratik-chamlagain-27b0b6400)
+- **GitHub**: [pratikchamlagain](https://github.com/pratikchamlagain)
+
+Feel free to reach out if you want to collaborate or just say hi!
 
 ---
 
