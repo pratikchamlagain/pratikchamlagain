@@ -11,16 +11,16 @@
   <br/>
 
   <!-- Minimal Dev Animation (Blue Theme) -->
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" style="border-radius: 10px;"/>
 
-  <br/><br/>
+ <br/><br/>
 
-  <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/pratikchamlagain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+ <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ <a href="https://github.com/pratikchamlagain" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+ </a>
 
 </div>
 
