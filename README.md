@@ -1,19 +1,17 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratik+Chamlagain+%F0%9F%91%8B;Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%E2%80%8D" alt="Typing SVG" />
+  <!-- 🔷 REFINED BANNER (replace with your generated image) -->
+  <img src="https://github.com/pratikchamlagain/pratikchamlagain/blob/main/banner.png?raw=true" alt="Pratik Banner"/>
 
-  <h3>Building modern, scalable, and user-friendly web applications</h3>
+  <br/><br/>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+modern+web+applications" />
 
   <p>
     Passionate about clean code, great UX, and continuous learning.
   </p>
 
   <br/>
-
-  <!-- Minimal Dev Animation (Blue Theme) -->
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
-
-  <br/><br/>
 
   <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,15 +91,6 @@
 | 🌍 Open Source Contributions     | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
-
----
-
-### 📫 Let's Connect
-
-- **LinkedIn**: [Pratik Chamlagain](https://linkedin.com/in/pratik-chamlagain-27b0b6400)
-- **GitHub**: [pratikchamlagain](https://github.com/pratikchamlagain)
-
-Feel free to reach out if you want to collaborate or just say hi!
 
 ---
 
