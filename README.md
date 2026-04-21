@@ -20,10 +20,46 @@
  <a href="https://github.com/pratikchamlagain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
  </a>
+ <a href="mailto:pratikchamlagain06@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ </a>
+ <a href="https://instagram.com/your_username_here" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+ </a>
 
 </div>
 
 <br/>
+
+---
+
+### 🧪 Currently Building: Project Alex (v0.1)
+*A personal AI assistant inspired by J.A.R.V.I.S.*
+- **Status:** Active Development (Apr 2026 – Present)
+- **Tech:** Python, PostgreSQL, Advanced AI APIs
+- **Goal:** Automating routine tasks and daily workflows through intelligent, voice-controlled problem-solving.
+
+---
+
+### 🚀 Featured Projects (Completed)
+
+#### 🛠️ Fixly | Full-Stack Hiring System
+- Streamlined local technician hiring via a React-Node.js platform.
+- Implemented technician registration, specialized search, and role-based access.
+
+#### 🛒 E-Commerce Watch Store
+- Built a modern retail interface using React.js and Node.js.
+- Developed full shopping cart logic, product catalogs, and detailed listing views.
+
+#### 📊 Billing & Inventory System (Beauty Retail)
+- Python-based CLI managing sales, 13% VAT calculations, and stock persistence.
+- Automated promotional logic (Buy 3 Get 1 Free) and restock invoice generation.
+
+#### 🏋️ Gym Management System
+- Java-based system for member registration, membership plan tracking, and data persistence.
+
+#### 👤 Profile Management System
+- Java & MySQL console app using JDBC for account record creation and DAO-style retrieval.
 
 ---
 
@@ -43,26 +79,19 @@
 <br/>
 
 **Database & ORM** <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 <br/>
 
 **Languages & Tools** <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
 <br/>
-
----
-
-### 🌱 Currently Building & Learning
-
-- Full-stack applications using **React + Node.js + Prisma + PostgreSQL**
-- Advanced React patterns and Next.js
-- Python for data manipulation (Pandas, NumPy)
-- Software Development Life Cycle (SDLC) and system design
 
 ---
 
@@ -92,15 +121,6 @@
 | 🌍 Open Source Contributions      | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
-
----
-
-### 📫 Let's Connect
-
-- **LinkedIn**: [Pratik Chamlagain](https://linkedin.com/in/pratik-chamlagain-27b0b6400)
-- **GitHub**: [pratikchamlagain](https://github.com/pratikchamlagain)
-
-Feel free to reach out if you want to collaborate or just say hi!
 
 ---
 
