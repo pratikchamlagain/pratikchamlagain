@@ -8,11 +8,18 @@
     Passionate about clean code, great UX, and continuous learning.
   </p>
 
+  <br/>
+
+  <!-- Minimal Dev Animation (Blue Theme) -->
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="380"/>
+
+  <br/><br/>
+
   <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/pratikchamlagain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
 </div>
@@ -24,22 +31,28 @@
 <div align="center">
 
 **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<br/>
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+<img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br/>
 
 **Database & ORM**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+<br/>
 
 **Languages & Tools**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -57,12 +70,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikchamlagain&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchamlagain&theme=tokyonight&hide_border=true" height="180" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikchamlagain&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=pratikchamlagain&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikchamlagain&theme=tokyonight&hide_border=true" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikchamlagain&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
@@ -74,8 +89,8 @@
 | 🚀 I'm open to...                  | 📬 Reach me at... |
 |----------------------------------|------------------|
 | 🧑‍💻 Internship / Junior Roles   | <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> |
-| 🤝 Product Collaboration         | <a href="https://github.com/pratikchamlagain"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"></a> |
-| 🌍 Open Source Contributions     | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"> |
+| 🤝 Product Collaboration         | <a href="https://github.com/pratikchamlagain"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white"></a> |
+| 🌍 Open Source Contributions     | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
 
@@ -91,5 +106,5 @@ Feel free to reach out if you want to collaborate or just say hi!
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pratikchamlagain&label=Profile%20Views&color=64748b&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pratikchamlagain&label=Profile%20Views&color=0EA5E9&style=flat" />
 </div>
