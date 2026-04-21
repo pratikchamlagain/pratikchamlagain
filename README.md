@@ -10,7 +10,7 @@
 
   <br/>
 
-  <img src="https://github.com/pratikchamlagain/pratikchamlagain/raw/main/LinkedIn_Profile_Link_A_young_boy_with_brown_hair_wearing_a_blue_wjieYepR.gif" width="450" style="border-radius: 10px;"/>
+  <img src="https://github.com/pratikchamlagain/pratikchamlagain/raw/main/LinkedIn_Profile_Link_A_young_boy_with_brown_hair_wearing_a_blue_wjieYepR.gif" width="550" style="border-radius: 10px;"/>
 
  <br/><br/>
 
@@ -31,29 +31,25 @@
 
 <div align="center">
 
-  **Frontend** <br/>
-  <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
-  <img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+**Frontend** <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-  <br/><br/>
+<br/>
 
-  **Backend** <br/>
-  <img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
+**Backend** <img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
 
-  <br/><br/>
+<br/>
 
-  **Database & ORM** <br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
+**Database & ORM** <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
 
-  <br/><br/>
+<br/>
 
-  **Languages & Tools** <br/>
-  <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
-  <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
+**Languages & Tools** <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
+<img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -96,6 +92,15 @@
 | 🌍 Open Source Contributions      | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
+
+---
+
+### 📫 Let's Connect
+
+- **LinkedIn**: [Pratik Chamlagain](https://linkedin.com/in/pratik-chamlagain-27b0b6400)
+- **GitHub**: [pratikchamlagain](https://github.com/pratikchamlagain)
+
+Feel free to reach out if you want to collaborate or just say hi!
 
 ---
 
