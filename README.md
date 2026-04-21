@@ -1,20 +1,14 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Pratik+Chamlagain+%F0%9F%91%8B;Full-Stack+Developer+%7C+Building+with+React+%26+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Pratik+Chamlagain+%F0%9F%91%8B;Full-Stack+Developer+from+Nepal+%F0%9F%87%B3%E2%80%8D" alt="Typing SVG" />
 
-  <h3>🚀 Turning ideas into reality with code</h3>
+  <h3>Building modern, scalable, and user-friendly web applications</h3>
 
   <p>
-    <strong>Full-Stack Developer</strong> from <strong>Nepal 🇳🇵</strong><br>
-    Passionate about building clean, scalable web applications
+    Passionate about clean code, great UX, and continuous learning.
   </p>
 
-  <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/pratikchamlagain" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <br/>
 
   <!-- Minimal Dev Animation (Blue Theme) -->
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" style="border-radius: 10px;"/>
