@@ -10,16 +10,15 @@
 
   <br/>
 
-  <!-- Minimal Dev Animation (Blue Theme) -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450" style="border-radius: 10px;"/>
+  <img src="https://github.com/pratikchamlagain/pratikchamlagain/raw/main/LinkedIn_Profile_Link_A_young_boy_with_brown_hair_wearing_a_blue_wjieYepR.gif" width="550" style="border-radius: 10px;"/>
 
  <br/><br/>
 
  <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400" target="_blank">
-   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  <a href="https://github.com/pratikchamlagain" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
  </a>
 
 </div>
@@ -30,27 +29,23 @@
 
 <div align="center">
 
-**Frontend**  
-<img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
+**Frontend** <img src="https://img.shields.io/badge/React-22D3EE?style=for-the-badge&logo=react&logoColor=0D1117"/> 
 <img src="https://img.shields.io/badge/Vite-3B82F6?style=for-the-badge&logo=vite&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 <br/>
 
-**Backend**  
-<img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
+**Backend** <img src="https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=nodedotjs&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express&logoColor=white"/>
 
 <br/>
 
-**Database & ORM**  
-<img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+**Database & ORM** <img src="https://img.shields.io/badge/PostgreSQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Prisma-1E293B?style=for-the-badge&logo=prisma&logoColor=white"/>
 
 <br/>
 
-**Languages & Tools**  
-<img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
+**Languages & Tools** <img src="https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=0D1117"/> 
 <img src="https://img.shields.io/badge/Python-3B82F6?style=for-the-badge&logo=python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -86,11 +81,11 @@
 
 <div align="center">
 
-| 🚀 I'm open to...                  | 📬 Reach me at... |
+| 🚀 I'm open to...                   | 📬 Reach me at... |
 |----------------------------------|------------------|
 | 🧑‍💻 Internship / Junior Roles   | <a href="https://linkedin.com/in/pratik-chamlagain-27b0b6400"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a> |
-| 🤝 Product Collaboration         | <a href="https://github.com/pratikchamlagain"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white"></a> |
-| 🌍 Open Source Contributions     | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
+| 🤝 Product Collaboration          | <a href="https://github.com/pratikchamlagain"><img src="https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white"></a> |
+| 🌍 Open Source Contributions      | <img src="https://img.shields.io/badge/Email-pratikchamlagain06%40gmail.com-0EA5E9?style=flat&logo=gmail&logoColor=white"> |
 
 </div>
 
